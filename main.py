@@ -1,7 +1,7 @@
 
 print("#myscript.ps1")
 print("my name is Raz")
-print("this is my most common used script")
+
 
 with open('ops.txt') as f:
     if 'Dave' in f.read():
